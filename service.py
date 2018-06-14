@@ -323,4 +323,4 @@ def comment_emotion():
     #return predict_comment(comment = comment)
     
 if __name__ == "__main__":
-    app.run(port=10723,host='0.0.0.0',debug=True)
+    app.run(port=xxx,host='0.0.0.0',debug=True) #xxx 就是要启用的端口
